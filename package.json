@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@nestjs/microservices": "^11.1.6",
+    "nodemailer": "^7.0.6",
+    "pug": "^3.0.3"
+  }
+}
